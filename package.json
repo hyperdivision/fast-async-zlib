@@ -1,6 +1,6 @@
 {
   "name": "fast-async-zlib",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Speed up zlib operations by running them using the sync APIs but in a Worker",
   "main": "index.js",
   "dependencies": {},
